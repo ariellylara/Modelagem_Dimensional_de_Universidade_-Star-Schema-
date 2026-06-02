@@ -85,5 +85,5 @@ Cada registro da tabela fato representa um professor ministrando uma disciplina 
 
 ## Modelo Dimensional (Star Schema)
 
-![Star Schema](imagens/StarSchema.png)
+![Star Schema](StarSchema.png)
 
