@@ -83,4 +83,7 @@ Cada registro da tabela fato representa um professor ministrando uma disciplina 
 - Data Warehouse
 
 
+## Modelo Dimensional (Star Schema)
+
+![Star Schema](imagens/StarSchema.png)
 
